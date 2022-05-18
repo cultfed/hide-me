@@ -172,7 +172,7 @@ Button(root, text='google', bg='#DCDCDC', font=('helvetica', 8, 'normal'), comma
 
 Label(root, text='HOMESINT', bg='#000000', font=('helvetica', 8, 'normal')).place(x=348, y=-18)
 Label(root, text='First Name', bg='#FFFFFF', font=('helvetica', 8, 'normal')).place(x=280, y=200)
-Label(root, text='First Name', bg='#FFFFFF', font=('helvetica', 8, 'normal')).place(x=500, y=200)
+Label(root, text='Last Name', bg='#FFFFFF', font=('helvetica', 8, 'normal')).place(x=500, y=200)
 
 
 root.mainloop()
